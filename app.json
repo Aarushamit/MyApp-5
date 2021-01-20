@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "everything-tech",
+    "slug": "everything-tech",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#00ff00"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.testUser.laptopapp",
+      "versionCode": 2
+    }
+  }
+}
